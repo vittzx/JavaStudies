@@ -1,0 +1,1 @@
+ESTUDOS PARALELOS DE JAVA, como Date Time entre outros.
