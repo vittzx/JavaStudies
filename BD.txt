@@ -1,0 +1,1 @@
+Uso de implementação de Indices para que a tabela realize query com busca binaria.
